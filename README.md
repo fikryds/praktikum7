@@ -53,7 +53,7 @@ return 0;
 }
 ```
 **gambar program**
-https://github.com/rivaldiahmad/praktikum7/blob/master/soal1/soal1.png
+https://github.com/fikryds/praktikum7/blob/master/soal1/soal1.png
 
 
 ##Soal2.cpp
@@ -104,7 +104,7 @@ main()
 }
 ```
 **gambar program**
-https://github.com/rivaldiahmad/praktikum7/blob/master/soal2/soal2.png
+https://github.com/fikryds/praktikum7/blob/master/soal2/soal2.png
 
 ##soal3.cpp
 **Alur Argoritma**
